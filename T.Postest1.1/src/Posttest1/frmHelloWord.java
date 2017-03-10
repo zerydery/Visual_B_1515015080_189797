@@ -1,4 +1,4 @@
-package Modulpertama;
+package Posttest1;
 
 
 import javax.swing.JOptionPane;
